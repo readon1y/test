@@ -1,1 +1,2 @@
-app/Config/dev/* merge=ours
+dev merge=ours
+app/Config/main/* -merge
