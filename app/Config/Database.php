@@ -22,16 +22,18 @@ class Database extends Config
     public string $defaultGroup = 'default';
 
     /**
-     * The default database connection.The default database connection.The default database connection.The default database connection.The default database connection.
+     * The default database connection.
+     * The default database connection.
+     * The default database connection.
      */
     public array $default = [
         'DSN'          => '',
         'hostname'     => 'localhost',
-        'username'     => 'dev5',
-        'password'     => 'dev5',
-        'database'     => 'dev5',
+        'username'     => 'dev6',
+        'password'     => 'dev6',
+        'database'     => 'dev6',
         'DBDriver'     => 'MySQLi',
-        'DBPrefix'     => 'dev5_',
+        'DBPrefix'     => 'dev6_',
         'pConnect'     => false,
         'DBDebug'      => true,
         'charset'      => 'utf8',
