@@ -1,1 +1,1 @@
-app/Config/Database.php merge=ours
+app/Config/* merge=ours
