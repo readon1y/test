@@ -8,4 +8,10 @@ class Home extends BaseController
     {
         return view('welcome_message');
     }
+    
+    public function dev_test() {
+        $a = 5;
+        $b = 6;
+        $c = $a * $b;
+    }
 }
