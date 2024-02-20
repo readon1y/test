@@ -15,7 +15,7 @@ class Home extends BaseController
         $c = $a * $b;
     }
     
-    public function dev_test_2() {
-        echo "test 2";
+    public function dev_test_3() {
+        echo "test 3";
     }
 }
