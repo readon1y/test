@@ -25,15 +25,24 @@ class Database extends Config
      * The default database connection.
      * The default database connection.
      * The default database connection.
+          * The default database connection.
+     * The default database connection.
+     * The default database connection.
+          * The default database connection.
+     * The default database connection.
+     * The default database connection.
+          * The default database connection.
+     * The default database connection.
+     * The default database connection.
      */
     public array $default = [
         'DSN'          => '',
         'hostname'     => 'localhost',
-        'username'     => 'main2',
-        'password'     => 'main2',
-        'database'     => 'main2',
+        'username'     => 'main3',
+        'password'     => 'main3',
+        'database'     => 'main3',
         'DBDriver'     => 'MySQLi',
-        'DBPrefix'     => 'main2_',
+        'DBPrefix'     => 'main3_',
         'pConnect'     => false,
         'DBDebug'      => true,
         'charset'      => 'utf8',
