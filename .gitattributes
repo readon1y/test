@@ -1,2 +1,0 @@
-main merge=ours
-app/Config/dev/* -merge
